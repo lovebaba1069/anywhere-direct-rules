@@ -1,4 +1,4 @@
-name = XiaoHongShu
+name = RedNote
 routing = 0
 # Assign a fixed proxy in Anywhere; place above DIRECT rules.
 # Sources: v2fly/domain-list-community data/xiaohongshu and data/askdiandian; MetaCubeX/meta-rules-dat geo/geosite/xiaohongshu.list; blackmatrix7/ios_rule_script XiaoHongShu.list
